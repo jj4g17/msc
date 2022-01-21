@@ -2,5 +2,5 @@
 Code pertaining to my Master's dissertation on Bayesian optimisation.
 
 TBA:
-Documentation on functions
-
+- Documentation on my functions
+- Upload individual files for Test Functions
