@@ -1,4 +1,4 @@
-# msc
+# Optimal Experiment Design for Bayesian Optimisation with Gaussian Process models
 Code pertaining to my Master's dissertation on Bayesian optimisation.
 
 TBA:
